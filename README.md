@@ -7,14 +7,31 @@
 
 ## 뉴스 기사 요약
 ### 문자열 사용
-- 인코딩과 디코딩 (pillow, PIL)
-- 문자열 다루기(textwrap)
-- 문자열 개수 구하기(collections)
-- 문자열 요약하기(이건 요약을 위해 사용, gensim 3.7.3)
-- 텍스트 파일 저장(open, close)
+# 문자열 이미지 인코딩 디코딩(pillow, PIL)
+
+[문자열 다루기(textwrap, re)](https://www.notion.so/textwrap-re-f2d3b4c5205d4d73bddc9926af859294)
+
+[문자열 개수 구하기(collections)](https://www.notion.so/collections-b86aacb0ba0c45a6b5ec632881d0dc9b)
+
+[문자열 요약하기(gensim)](https://www.notion.so/gensim-baeab452d6c74c80b9d4f48632bf41ed)
+
+[텍스트 파일 저장(open, close)](https://www.notion.so/open-close-d70e7d0b3d1c44a4a71064efc6d98678)
+
+[미니 프로젝트(뉴스 기사 요약하기)](https://www.notion.so/54e5cf0d1fd241bea9220eee57436759)
 
 ### 날짜 / 시간 / 달력
 - 날짜 및 요일 계산(datetime)
 - 달력 관련 라이브러리(calendar)
 - 시간 관련 라이브러리(deteutil, time)
 - 날짜 출력(strptime, strftime)
+
+### 폴더 관리
+# 디렉터리 다루기(os.path, pathlib)
+
+[파일 읽기, 저장(fileinput, pickle)](https://www.notion.so/fileinput-pickle-c533a35323fc4f42b48e2f69d16acf80)
+
+[파일 찾기, 복사, 이동(glob, fnmatch, shutil)](https://www.notion.so/glob-fnmatch-shutil-fe8f7476b1014ea8bdca66c4a9874c32)
+
+[파일 압축(zlip, gzip, zipfile, tarfile)](https://www.notion.so/zlip-gzip-zipfile-tarfile-3c24649004944f499e5c8051b09dd5f5)
+
+[폴더 관리 프로그램 만들기](https://www.notion.so/d29d11c8f2624ac2bd4f6deb1183519d)
