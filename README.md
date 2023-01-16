@@ -35,3 +35,14 @@
 [파일 압축(zlip, gzip, zipfile, tarfile)](https://www.notion.so/zlip-gzip-zipfile-tarfile-3c24649004944f499e5c8051b09dd5f5)
 
 [폴더 관리 프로그램 만들기](https://www.notion.so/d29d11c8f2624ac2bd4f6deb1183519d)
+
+### 암호화
+# 정규표현식 - re
+
+[입력할때 비밀번호 감추기 암호화 - getpass](https://www.notion.so/getpass-1987aaf026264476a1271f31ff6ec4b7)
+
+[비밀번호 암호화(hashlib)](https://www.notion.so/hashlib-2a2a08b5fe9b490185b8777b88fcd833)
+
+[메세지 변조 확인(hmac)](https://www.notion.so/hmac-13b2855dc364462ea6194196e1afefe8)
+
+[안전한 난수를 생성(secrete) -OTP](https://www.notion.so/secrete-OTP-8957a5ffdbad468c82513ebdb6d04abb)
